@@ -1,6 +1,6 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/l3onardocz/l3onardocz">
   <img height=200 align="center" src="https://github-readme-stats-l3onardo.vercel.app/api?username=l3onardocz" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/l3onardocz/l3onardocz">
+  <img height=200 align="center" src="https://github-readme-stats-l3onardo.vercel.app/api/top-langs?username=l3onardocz&layout=compact&langs_count=8&card_width=320" />
 </a>
